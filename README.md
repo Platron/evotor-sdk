@@ -1,4 +1,4 @@
-Platron Atol SDK
+Platron Evotor SDK
 ===============
 ## Установка
 
